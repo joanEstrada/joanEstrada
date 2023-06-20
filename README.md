@@ -20,6 +20,7 @@ I have led software development cycles for the products of the startup Waipo SAS
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" />
 
 #
+#
 
 ### 🤓💻🎉 My projects
 

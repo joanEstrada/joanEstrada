@@ -28,8 +28,8 @@ I have led software development cycles for the products of the startup Waipo SAS
 <!-- Primera fila -->
 <div>
   <figure>
-    <img src="./images/imagen1.jpg" alt="Imagen 1" width="150" title="Leyenda de la Imagen 1" />
-    <figcaption>Leyenda de la Imagen 1</figcaption>
+    <img src="./images/aplicacion_aeronautica.jpg" alt="Imagen 1" width="150" title="aeronautica" />
+    <figcaption>Levantamiento del problema aeronáutica</figcaption>
   </figure>
   <!-- Repite el mismo patrón para las demás imágenes de la fila -->
 </div>

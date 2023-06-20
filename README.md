@@ -1,7 +1,5 @@
-#
 ### joanEstrada developer 👋
 **`Full stack Python/React with cloud plus! (Developer)`**
-#
 I have led software development cycles for the products of the startup Waipo SAS. I am sure I can contribute to your company.
 
 ---

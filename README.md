@@ -25,25 +25,15 @@ I have led software development cycles for the products of the startup Waipo SAS
 
 ### 🤓💻🎉 My projects
 
-<!-- Primera fila -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-      <figure>
-      <img src="./images/aplicacion_aeronautica.jpg" alt="Imagen 1" width="200" height="100" title="aeronautica" />
-    </figure>
-      <figure>
-      <img src="./images/aplicacion_aeronautica_2.jpg" alt="Imagen 1" width="200" height="100" title="aeronautica" />
-    </figure>
-      <figure>
-      <img src="./images/producto_aeronautica.jpg" alt="Imagen 1" width="200" height="100" title="aeronautica" />
-    </figure>
-  </div>
-  <p align="center">
-  I am currently designing a cloud architecture for massive consumption of critical data through a python/react interface in aviation safety applications.
-  </p>        
-<!-- Segunda fila -->
-  <div>
-    <!-- Repite el mismo patrón para cada fila de imágenes -->
-  </div>
+<div align="center">
+  <img src="./images/aplicacion_aeronautica.jpg" alt="aeronautica">
+  <img src="./images/aplicacion_aeronautica_2.jpg" alt="aeronautica">
+  <img src="./images/producto_aeronautica.jpg" alt="aeronautica">
+</div>
+
+<p align="center">
+I am currently designing a cloud architecture for massive consumption of critical data through a python/react interface in aviation safety applications.
+</p> 
 
 
 #

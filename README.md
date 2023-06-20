@@ -42,7 +42,7 @@ I am currently designing an AWS cloud architecture for massive consumption of cr
 </div>
 
 <p align="center">
-I am currently designing an AWS cloud architecture for massive consumption of critical data through a python/react interface in aviation safety applications.
+Creation of react interface, fastAPI/Django backend and AWS cloud infrastructure for IoT devices focused on hundreds of users.
 </p> 
 
 

@@ -25,6 +25,22 @@ I have led software development cycles for the products of the startup Waipo SAS
 
 ### 🤓💻🎉 My projects
 
+<!-- Primera fila -->
+<div>
+  <figure>
+    <img src="./images/imagen1.jpg" alt="Imagen 1" width="150" title="Leyenda de la Imagen 1" />
+    <figcaption>Leyenda de la Imagen 1</figcaption>
+  </figure>
+  <!-- Repite el mismo patrón para las demás imágenes de la fila -->
+</div>
+
+<!-- Segunda fila -->
+<div>
+  <!-- Repite el mismo patrón para cada fila de imágenes -->
+</div>
+
+
+
 #
 
 ### 📊 Stats

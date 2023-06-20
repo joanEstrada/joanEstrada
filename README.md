@@ -25,7 +25,7 @@ I have led software development cycles for the products of the startup Waipo SAS
 
 ### 🤓💻🎉 My projects
 
-<div style="text-align: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
 <!-- Primera fila -->
   <div>
     <figure>

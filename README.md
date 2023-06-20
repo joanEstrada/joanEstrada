@@ -45,9 +45,7 @@ I am currently designing an AWS cloud architecture for massive consumption of cr
 Creation of react interface, fastAPI/Django backend and AWS cloud infrastructure for IoT devices targeting hundreds of users as well as product exposure through social media.
 </p> 
 
-
-
-#
+**`And much more...`**
 
 ### 📊 Stats
 

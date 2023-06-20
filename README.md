@@ -36,7 +36,11 @@ I have led software development cycles for the products of the startup Waipo SAS
       <figure>
       <img src="./images/producto_aeronautica.jpg" alt="Imagen 1" width="150" height="100" title="aeronautica" />
     </figure>
-        <figcaption style="text-align: center;">I am currently designing a cloud architecture for massive consumption of critical data through a python/react interface in aviation safety applications.</figcaption>
+        <figcaption style="text-align: center;">
+          #
+          #
+          
+          I am currently designing a cloud architecture for massive consumption of critical data through a python/react interface in aviation safety applications.</figcaption>
   </div>
 <!-- Segunda fila -->
   <div>

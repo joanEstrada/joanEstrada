@@ -28,13 +28,13 @@ I have led software development cycles for the products of the startup Waipo SAS
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
 <!-- Primera fila -->
   <div>
-      <figure style="text-align: center; margin: 10px;">
+      <figure style="text-align: left; margin: 10px;">
       <img src="./images/aplicacion_aeronautica.jpg" alt="Imagen 1" width="150" height="100" title="aeronautica" />
     </figure>
       <figure style="text-align: center; margin: 10px;">
       <img src="./images/aplicacion_aeronautica_2.jpg" alt="Imagen 1" width="150" height="100" title="aeronautica" />
     </figure>
-      <figure style="text-align: center; margin: 10px;">
+      <figure style="text-align: right; margin: 10px;">
       <img src="./images/producto_aeronautica.jpg" alt="Imagen 1" width="150" height="100" title="aeronautica" />
     </figure>
     <!-- Repite el mismo patrón para las demás imágenes de la fila -->

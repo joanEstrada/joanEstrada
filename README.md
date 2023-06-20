@@ -35,6 +35,17 @@ I have led software development cycles for the products of the startup Waipo SAS
 I am currently designing an AWS cloud architecture for massive consumption of critical data through a python/react interface in aviation safety applications.
 </p> 
 
+<div align="center">
+  <img src="./images/producto_agro.jpg" width=150 height=100 alt="agro">
+  <img src="./images/producto_agro2.jpg" width=150 height=100 alt="agro">
+  <img src="./images/presentacion_producto_3.jpg" width=150 height=100 alt="agro">
+</div>
+
+<p align="center">
+I am currently designing an AWS cloud architecture for massive consumption of critical data through a python/react interface in aviation safety applications.
+</p> 
+
+
 
 #
 

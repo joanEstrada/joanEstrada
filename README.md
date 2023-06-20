@@ -29,7 +29,6 @@ I have led software development cycles for the products of the startup Waipo SAS
 <div>
   <figure>
     <img src="./images/aplicacion_aeronautica.jpg" alt="Imagen 1" width="150" title="aeronautica" />
-    <figcaption>Levantamiento del problema aeronáutica</figcaption>
   </figure>
   <!-- Repite el mismo patrón para las demás imágenes de la fila -->
 </div>

@@ -25,25 +25,26 @@ I have led software development cycles for the products of the startup Waipo SAS
 
 ### 🤓💻🎉 My projects
 
-<!-- Primera fila -->
 <div style="text-align: center;">
-  <figure>
-    <img src="./images/aplicacion_aeronautica.jpg" alt="Imagen 1" width="150" height="100" title="aeronautica" />
-  </figure>
+<!-- Primera fila -->
+  <div>
     <figure>
-    <img src="./images/aplicacion_aeronautica_2.jpg" alt="Imagen 1" width="150" height="100" title="aeronautica" />
-  </figure>
-    <figure>
-    <img src="./images/producto_aeronautica.jpg" alt="Imagen 1" width="150" height="100" title="aeronautica" />
-  </figure>
-  <!-- Repite el mismo patrón para las demás imágenes de la fila -->
-</div>
-
+      <img src="./images/aplicacion_aeronautica.jpg" alt="Imagen 1" width="150" height="100" title="aeronautica" />
+    </figure>
+      <figure>
+      <img src="./images/aplicacion_aeronautica_2.jpg" alt="Imagen 1" width="150" height="100" title="aeronautica" />
+    </figure>
+      <figure>
+      <img src="./images/producto_aeronautica.jpg" alt="Imagen 1" width="150" height="100" title="aeronautica" />
+    </figure>
+    <!-- Repite el mismo patrón para las demás imágenes de la fila -->
+  </div>
 <!-- Segunda fila -->
-<div>
-  <!-- Repite el mismo patrón para cada fila de imágenes -->
-</div>
+  <div>
+    <!-- Repite el mismo patrón para cada fila de imágenes -->
+  </div>
 
+</div>
 
 
 #

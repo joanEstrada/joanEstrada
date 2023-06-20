@@ -31,11 +31,10 @@ I have led software development cycles for the products of the startup Waipo SAS
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
+
+### 🤓💻🎉 My projects
 <!--
 **joanEstrada/joanEstrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://media1.giphy.com/media/fsoCk5kgOcYMM/giphy.gif
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21uZ25ya3h0d3A5aDAwcXU0YzJqbmRxbnFlMnlldWFlOWZhM3FidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qPa9vUYCUrx6w/giphy.gif
-https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47an1sj7k0sc6v6gike8agofoh7f0sia0nzrw82qen&ep=v1_gifs_search&rid=giphy.gif&ct=g
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

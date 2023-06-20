@@ -2,7 +2,7 @@
 <div id="header" align="center">
     <img src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height="100" />
     <h1 align="center">Hi 👋, I'm Joan Estrada</h1>
-    <h3 align="center">A passionate fullstack web developer from México. I like Laravel.</h3>
+    <h3 align="center">A passionate backend web developer from Colombia. I love AWS.</h3>
 </div>
 
 <!--

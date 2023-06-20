@@ -32,7 +32,7 @@ I have led software development cycles for the products of the startup Waipo SAS
 </div>
 
 <p align="center">
-I am currently designing a cloud architecture for massive consumption of critical data through a python/react interface in aviation safety applications.
+I am currently designing an AWS cloud architecture for massive consumption of critical data through a python/react interface in aviation safety applications.
 </p> 
 
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-    <img src="https://media1.giphy.com/media/fsoCk5kgOcYMM/giphy.gif" width="200" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21uZ25ya3h0d3A5aDAwcXU0YzJqbmRxbnFlMnlldWFlOWZhM3FidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qPa9vUYCUrx6w/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Joan Estrada</h1>
     <h3 align="center">A passionate fullstack web developer from México. I like Laravel.</h3>
 </div>
@@ -8,6 +8,7 @@
 <!--
 **joanEstrada/joanEstrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://media1.giphy.com/media/fsoCk5kgOcYMM/giphy.gif
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21uZ25ya3h0d3A5aDAwcXU0YzJqbmRxbnFlMnlldWFlOWZhM3FidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qPa9vUYCUrx6w/giphy.gif
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

@@ -1,8 +1,13 @@
 ### Hi there 👋
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
+    <h1 align="center">Hi 👋, I'm Joan Estrada</h1>
+    <h3 align="center">A passionate fullstack web developer from México. I like Laravel.</h3>
+</div>
 
 <!--
 **joanEstrada/joanEstrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://media1.giphy.com/media/fsoCk5kgOcYMM/giphy.gif
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

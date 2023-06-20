@@ -36,9 +36,9 @@ I am currently designing an AWS cloud architecture for massive consumption of cr
 </p> 
 
 <div align="center">
-  <img src="./images/producto_agro.jpg" width=150 height=100 alt="agro">
-  <img src="./images/producto_agro2.jpg" width=150 height=100 alt="agro">
-  <img src="./images/presentacion_producto_3.jpg" width=150 height=100 alt="agro">
+  <img src="./images/producto_agro.jpg" width=350 height=150 alt="agro">
+  <img src="./images/producto_agro2.jpg" width=350 height=150 alt="agro">
+  <img src="./images/presentacion_producto_3.jpg" width=350 height=150 alt="agro">
 </div>
 
 <p align="center">

@@ -26,7 +26,7 @@ I have led software development cycles for the products of the startup Waipo SAS
 ### 🤓💻🎉 My projects
 
 <!-- Primera fila -->
-<div>
+<div style="text-align: center;">
   <figure>
     <img src="./images/aplicacion_aeronautica.jpg" alt="Imagen 1" width="150" height="100" title="aeronautica" />
   </figure>

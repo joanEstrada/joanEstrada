@@ -30,6 +30,12 @@ I have led software development cycles for the products of the startup Waipo SAS
   <figure>
     <img src="./images/aplicacion_aeronautica.jpg" alt="Imagen 1" width="150" title="aeronautica" />
   </figure>
+    <figure>
+    <img src="./images/aplicacion_aeronautica2.jpg" alt="Imagen 1" width="150" title="aeronautica" />
+  </figure>
+    <figure>
+    <img src="./images/producto_aeronautica.jpg" alt="Imagen 1" width="150" title="aeronautica" />
+  </figure>
   <!-- Repite el mismo patrón para las demás imágenes de la fila -->
 </div>
 

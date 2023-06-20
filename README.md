@@ -28,13 +28,13 @@ I have led software development cycles for the products of the startup Waipo SAS
 <!-- Primera fila -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
       <figure>
-      <img src="./images/aplicacion_aeronautica.jpg" alt="Imagen 1" width="150" height="100" title="aeronautica" />
+      <img src="./images/aplicacion_aeronautica.jpg" alt="Imagen 1" width="200" height="100" title="aeronautica" />
     </figure>
       <figure>
-      <img src="./images/aplicacion_aeronautica_2.jpg" alt="Imagen 1" width="150" height="100" title="aeronautica" />
+      <img src="./images/aplicacion_aeronautica_2.jpg" alt="Imagen 1" width="200" height="100" title="aeronautica" />
     </figure>
       <figure>
-      <img src="./images/producto_aeronautica.jpg" alt="Imagen 1" width="150" height="100" title="aeronautica" />
+      <img src="./images/producto_aeronautica.jpg" alt="Imagen 1" width="200" height="100" title="aeronautica" />
     </figure>
   </div>
   <p align="center">

@@ -53,7 +53,7 @@ Creation of react interface, fastAPI/Django backend and AWS cloud infrastructure
 </div>
 
 <div align="center">
-  <img src="./gif/real_time_tracking.gif" width=150 height=100 alt="tracking_realtime">
+  <img src="./gif/real_time_tracking.gif" width=700 height=100 alt="tracking_realtime">
 </div>
 
 

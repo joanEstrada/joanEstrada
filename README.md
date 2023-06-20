@@ -25,7 +25,6 @@ I have led software development cycles for the products of the startup Waipo SAS
 
 ### 🤓💻🎉 My projects
 <p align="center">
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
 <!-- Primera fila -->
   <div>
       <figure>
@@ -43,8 +42,6 @@ I have led software development cycles for the products of the startup Waipo SAS
   <div>
     <!-- Repite el mismo patrón para cada fila de imágenes -->
   </div>
-
-</div>
 </p>
 
 #

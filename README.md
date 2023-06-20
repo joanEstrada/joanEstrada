@@ -47,8 +47,8 @@ Creation of react interface, fastAPI/Django backend and AWS cloud infrastructure
 
 **`And much more...`**
 <div align="center">
-  <img src="./images/tag_frontend_react_tracking.jpg" width=200 height=150 alt="tracking_indoor">
-  <img src="./images/tag_frontend_react_tags.jpg" width=200 height=150 alt="aeronautica">
+  <img src="./images/tag_frontend_react_tracking.jpg" width=350 height=150 alt="tracking_indoor">
+  <img src="./images/tag_frontend_react_tags.jpg" width=350 height=150 alt="aeronautica">
 
 </div>
 

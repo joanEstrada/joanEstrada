@@ -1,4 +1,6 @@
-### Hi there 👋
+### joanEstrada developer 👋
+**`Full stack Python/React with cloud plus! (Developer)`**
+I am a developer, I have led software development cycles for the products of the startup Waipo SAS. I am sure I can contribute to your company.
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm Joan Estrada</h1>
     <h3 align="center">A passionate backend web developer from Colombia. I love AWS.</h3>
